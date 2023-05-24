@@ -5,7 +5,6 @@ const About = () => {
   return (
     <section className="section" id="about">
       <Title title="about" subTitle="us" />
-
       <div className="section-center about-center">
         <div className="about-img">
           <img
