@@ -6,7 +6,7 @@ const Tours = () => {
   return (
     <section className="section" id="tours">
 
-      <Title title="featured" subTitle="tours" />
+      <Title title="featured" subTitle="tourss" />
       <div className="section-center featured-center">
 
         {
